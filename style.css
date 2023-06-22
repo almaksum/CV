@@ -2,6 +2,13 @@ body {
   font-family: kanit, sans-serif;
 }
 
+.time {
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  margin-top: 20px;
+}
+
 .navbar-toggler {
   display: none;
 }
