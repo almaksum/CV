@@ -1,2 +1,2 @@
-[Kunjungi halaman utama](portofolio.html)
+[](portofolio.html)
 
